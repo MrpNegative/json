@@ -1,13 +1,13 @@
 [
-  { "name": "God Of War PC", "price": 39.99, "id": 1, "img":"../img/godOfWar.jpg"},
-  { "name": "Borderlands 3 Ultimate Edition PC", "price": 32.00, "id": 2 },
-  { "name": "ELDEN RING PC", "price": 43.68, "id": 3, "img":"../img/eldenRing.jpg" },
-  { "name": "Dying Light 2 Stay Human PC", "price": 59.99, "id": 4, "img":"../img/dyingLight2.jpg" },
-  { "name": "Assassin's Creed Valhalla PC", "price": 19.20, "id": 5, "img":"../img/assassinsCreedValhalla.jpg" },
-  { "name": "Mass Effect Legendary Edition PC", "price": 11.99, "id": 6, "img":"../img/massEffect.jpg" },
-  { "name": "The Witcher 3: Wild Hunt PC", "price": 7.99, "id": 7, "img":"../img/theWitcher3.jpg" },
-  { "name": "Horizon Zero Dawn Complete Edition PC", "price": 24.99, "id": 8, "img":"../img/horizonZeroDawn.jpg" },
-  { "name": "NieR:Automata PC", "price": 19.99, "id": 9, "img":"../img/nierautomata.jpg" },
-  { "name": "Assassin's Creed Origins PC", "price": 9.60, "id": 10, "img":"../img/assassinsCreedOrigins.jpg" },
-  { "name": "Cyberpunk 2077 PC", "price": 29.99, "id": 11, "img":"../img/cyberpunk2077.jpg" }
+  { "name": "God Of War PC", "price": 39.99, "id": 1, "img":"./img/godOfWar.jpg"},
+  { "name": "Borderlands 3 Ultimate Edition PC", "price": 32.00, "id": 2, "img":"./img/borderlands3.jpg" },
+  { "name": "ELDEN RING PC", "price": 43.68, "id": 3, "img":"./img/eldenRing.jpg" },
+  { "name": "Dying Light 2 Stay Human PC", "price": 59.99, "id": 4, "img":"./img/dyingLight2.jpg" },
+  { "name": "Assassin's Creed Valhalla PC", "price": 19.20, "id": 5, "img":"./img/assassinsCreedValhalla.jpg" },
+  { "name": "Mass Effect Legendary Edition PC", "price": 11.99, "id": 6, "img":"./img/massEffect.jpg" },
+  { "name": "The Witcher 3: Wild Hunt PC", "price": 7.99, "id": 7, "img":"./img/theWitcher3.jpg" },
+  { "name": "Horizon Zero Dawn Complete Edition PC", "price": 24.99, "id": 8, "img":"./img/horizonZeroDawn.jpg" },
+  { "name": "NieR:Automata PC", "price": 19.99, "id": 9, "img":"./img/nierautomata.jpg" },
+  { "name": "Assassin's Creed Origins PC", "price": 9.60, "id": 10, "img":"./img/assassinsCreedOrigins.jpg" },
+  { "name": "Cyberpunk 2077 PC", "price": 29.99, "id": 11, "img":"./img/cyberpunk2077.jpg" }
 ]
